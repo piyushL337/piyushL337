@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @piyushL337
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Wordpress
 -Take look at my Blog [GyanLog](https://gyanlog.in)
 
 <!---
